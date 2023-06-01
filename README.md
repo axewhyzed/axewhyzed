@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently a B.Tech Computer Engineering student at Birla Vishvakarma Mahavidyalaya Engineering College, graduating in the year 2024. I'm interested in Web Development using React JS
+
 <!--
 **axewhyzed/axewhyzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
