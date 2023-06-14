@@ -6,6 +6,7 @@ I'm currently a B.Tech Computer Engineering student at Birla Vishvakarma Mahavid
 **axewhyzed/axewhyzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +18,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🔭 I’m currently working on several personal projects<br>- 🌱 I’m currently learning React JS<br>- 👯 I’m looking to collaborate on Web Projects<br>- 🤔 I’m looking for help with Frontend Development<br>- 💬 Ask me about why I hate bugs<br>- ⚡ Fun fact: This year, I finally created my own game !
+- 🔭 I’m currently working on several personal projects
+- 🌱 I’m currently learning React JS
+- 👯 I’m looking to collaborate on Web Projects
+- 🤔 I’m looking for help with Frontend Development
+- 💬 Ask me about why I hate bugs
+- ⚡ Fun fact: This year, I finally created my own game !
 
 
 ## 🌐 Socials:
