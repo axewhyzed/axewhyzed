@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-- 🔭 I’m currently working on preparing for campus interviews
-- 🌱 I’m currently learning React JS
-- 🤔 I’m looking for help with Frontend Development
+- 🔭 I’m currently working on personal projects
+- 🌱 I’m currently learning full stack development
+- 🤔 I’m looking for help with web app development
 - 💬 I can keep talking about space 🌌
 - ⚡ Fun fact: This year, I finally created my own game in Unity3D !
 <br>
