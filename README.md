@@ -2,7 +2,7 @@
 <h2><b>Hi there 👋</b></h2>
 </div>
 
-### <div align="center">I'm Mihir, a Student and Developer 👨‍💻 graduating in 2024 🚀</div>
+### <div align="center">I'm Mihir, a guy who likes to code for fun.</div>
 
 <div align="center">
 I'm currently a B.Tech Computer Engineering student at Birla Vishvakarma Mahavidyalaya Engineering College
