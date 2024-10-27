@@ -5,7 +5,7 @@
 ### <div align="center">I'm Mihir, a guy who likes to code for fun.</div>
 
 <div align="center">
-I'm currently a B.Tech Computer Engineering student at Birla Vishvakarma Mahavidyalaya Engineering College
+I'm currently a full-time software engineer at a US-based healthcare software company.
 </div>
 
 
@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning full stack development
-- 🤔 I’m looking for help with web app development
-- 💬 I can keep talking about space 🌌
+- 🔭 I’m currently working on a tiny project
 - ⚡ Fun fact: This year, I finally created my own game in Unity3D !
 <br>
 
