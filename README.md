@@ -2,7 +2,7 @@
 <h2><b>Hi there 👋</b></h2>
 </div>
 
-### <div align="center">I'm Mihir, a guy who likes to code for fun.</div>
+### <div align="center">I'm Mihir.</div>
 
 <div align="center">
 I'm currently a full-time software engineer at a US-based healthcare software company.
