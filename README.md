@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me:
-- 🔭 I’m currently working on a tiny project
+- 🔭 I’m currently working on my project : Flowcus.
 - ⚡ Fun fact: This year, I finally created my own game in Unity3D !
 <br>
 
