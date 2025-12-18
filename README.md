@@ -80,6 +80,8 @@ Here are some ideas to get you started:
 
 </tr></table>  
 
+Support me at : https://buymeacoffee.com/axewhyzed
+
 <br/>  
 
 # Connect with me  
