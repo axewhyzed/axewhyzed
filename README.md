@@ -28,12 +28,8 @@ Full-stack productivity app · Angular 19 · .NET 8 · PostgreSQL · Azure Pipel
 ### 🕹️ DevOps & Tools
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center">
-  
-## 📊 My Stats
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axewhyzed&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
+<!--
+<div align="center" style="display: none;">
   <a href="https://buymeacoffee.com/axewhyzed" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </div>
+-->
